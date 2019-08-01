@@ -10,5 +10,7 @@ En cours de "Bizness Growth Money Maker", on t'avait demandé de créer une entr
 Dans le terminal: 
 
 2 - Lancer " bundle Install ".
+
 3 - Lancer " rails db:seed ".
+
 4 - Lancer " rails c " ou " rails console ".
